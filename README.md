@@ -1,0 +1,2 @@
+# SIGNATE_Beginner_55
+SIGNATE_Beginner_55_国勢調査からの収入予測
